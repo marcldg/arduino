@@ -1,0 +1,330 @@
+Humidity: 34.10 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 34.00 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.20 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.10 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.10 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.20 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.20 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.60 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.50 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.30 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 34.20 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 34.10 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 34.00 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.60 %, Temp: 23.90 Celsius
+Active
+Humidity: 33.60 %, Temp: 23.90 Celsius
+Active
+Humidity: 33.60 %, Temp: 23.90 Celsius
+Active
+Humidity: 33.70 %, Temp: 23.90 Celsius
+Active
+Humidity: 33.90 %, Temp: 23.90 Celsius
+Active
+Humidity: 33.80 %, Temp: 23.90 Celsius
+Active
+Humidity: 33.80 %, Temp: 23.90 Celsius
+Active
+Humidity: 34.00 %, Temp: 23.90 Celsius
+Active
+Humidity: 34.00 %, Temp: 23.90 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 23.90 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 23.90 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 23.90 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 23.90 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 23.90 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 23.90 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.50 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.00 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 34.00 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 34.10 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 34.00 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.00 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Inactive
+Humidity: 34.00 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.00 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.20 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.30 %, Temp: 24.10 Celsius
+Active
+Humidity: 34.00 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.90 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.80 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.70 %, Temp: 24.10 Celsius
+Active
+Humidity: 33.60 %, Temp: 24.10 Celsius
+Active
